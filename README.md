@@ -18,7 +18,12 @@ Next, some screenshots from the templates are provided:
 
 ## Built With
 
-- Major languages: Css & Html.
+-HTML
+-Bootstrap
+-CSS
+-SASS
+-Stylelint
+-Webhint
 
 ## Author
 
